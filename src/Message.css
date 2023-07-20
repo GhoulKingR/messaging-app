@@ -1,0 +1,31 @@
+.message {
+  padding: 10px;
+  margin: 10px;
+}
+
+.message__card {
+  width: fit-content;
+}
+
+.message__notUser {  
+  background-color: #e9e9eb !important;
+  border-top-left-radius: 0 !important;
+}
+
+.message__user {
+  border-top-right-radius: 0 !important;
+  margin-left: auto;
+  background-color: #0b81ff !important;
+}
+
+.message__alignRight {
+  text-align: right !important;
+}
+
+.message__alignLeft {
+  text-align: left !important;
+}
+
+.message__userText {
+  color: white !important;
+}
